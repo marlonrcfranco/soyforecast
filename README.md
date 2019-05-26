@@ -6,4 +6,5 @@ Prediction of future soybeans stock prices on the Chicago Stock Exchange (CBOT) 
 Soybean, CBOT Soybean Futures + (2015 USA Weather Avg, Max, Min by USDA-NASS-soybeans-production_bushels-2015)
 
 Apache License 2.0 © Marlon Franco
+
 Disclaimer: This project is not affiliated with NOAA or GHCN in any way.
