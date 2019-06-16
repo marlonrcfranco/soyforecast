@@ -1,4 +1,6 @@
 # soyforecast
+##### Go to notebook: https://github.com/marlonrcfranco/soyforecast/blob/master/soyforecast.ipynb
+
 ![alt text](https://github.com/marlonrcfranco/soyforecast/blob/master/Selection_244.png?raw=true)
 
 Prediction of future soybeans stock prices on the Chicago Stock Exchange (CBOT) using a LSTM model and relating climatic data from the most productive regions of the USA.
