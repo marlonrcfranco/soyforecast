@@ -1,5 +1,5 @@
 # soyforecast
-##### Go to notebook: https://github.com/marlonrcfranco/soyforecast/blob/master/soyforecast.ipynb
+##### Go to the notebook: https://github.com/marlonrcfranco/soyforecast/blob/master/soyforecast.ipynb
 
 ![alt text](https://github.com/marlonrcfranco/soyforecast/blob/master/Selection_244.png?raw=true)
 
