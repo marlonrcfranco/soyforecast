@@ -5,7 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/marlonrcfranco/soyforecast?style=social)](https://github.com/marlonrcfranco/soyforecast/stargazers)
 
 # soyforecast
-##### Go to the notebook: https://github.com/marlonrcfranco/soyforecast/blob/master/soyforecast.ipynb
+### Go to the notebook: https://github.com/marlonrcfranco/soyforecast/blob/master/soyforecast.ipynb
 
 ![alt text](https://github.com/marlonrcfranco/soyforecast/blob/master/Selection_244.png?raw=true)
 
