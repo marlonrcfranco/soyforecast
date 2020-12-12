@@ -8,11 +8,19 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marlonrcfranco/soyforecast/blob/master/soyforecast.ipynb)
 ### Go to the notebook: https://github.com/marlonrcfranco/soyforecast/blob/master/soyforecast.ipynb
 
-![alt text](https://github.com/marlonrcfranco/soyforecast/blob/master/Selection_244.png?raw=true)
+<p align="center">
+  <img src="https://github.com/marlonrcfranco/soyforecast/blob/master/Selection_244.png?raw=true">
+</p>
 
+<p align="center">
 Prediction of future soybeans stock prices on the Chicago Stock Exchange (CBOT) using a LSTM model and relating climatic data from the most productive regions of the USA.
+</p>
 
-Soybean, CBOT Soybean Futures + (2015 USA Weather Avg, Max, Min by USDA-NASS-soybeans-production_bushels-2015)
+<p align="center">
+  <img src="https://github.com/marlonrcfranco/soyforecast/blob/master/RMSE_18.789.png?raw=true">
+  <br>
+  Soybean, CBOT Soybean Futures + (2015 USA Weather Avg, Max, Min by USDA-NASS-soybeans-production_bushels-2015)
+</p>
 
 Apache License 2.0 © Marlon Franco
 
