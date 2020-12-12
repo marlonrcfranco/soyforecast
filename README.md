@@ -9,7 +9,7 @@
 ### Go to the notebook: https://github.com/marlonrcfranco/soyforecast/blob/master/soyforecast.ipynb
 
 <p align="center">
-  <img src="https://github.com/marlonrcfranco/soyforecast/blob/master/Selection_244.png?raw=true">
+  <img src="https://github.com/marlonrcfranco/soyforecast/raw/master/Selection_244.png?raw=true">
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ Prediction of future soybeans stock prices on the Chicago Stock Exchange (CBOT) 
 </p>
 
 <p align="center">
-  <img src="https://github.com/marlonrcfranco/soyforecast/blob/master/RMSE_18.789.png?raw=true">
+  <img src="https://github.com/marlonrcfranco/soyforecast/raw/master/RMSE_18.789.png?raw=true">
   <br>
   Soybean, CBOT Soybean Futures + (2015 USA Weather Avg, Max, Min by USDA-NASS-soybeans-production_bushels-2015)
 </p>
