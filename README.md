@@ -12,8 +12,13 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
 
 # soyforecast
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marlonrcfranco/soyforecast/blob/master/soyforecast.ipynb)
 
+<p align="center">
+  <a href="https://colab.research.google.com/github/marlonrcfranco/soyforecast/blob/master/soyforecast.ipynb">
+    <img alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg"/>
+  </a>
+</p>
+  
 <p align="center">
   <img src="https://github.com/marlonrcfranco/soyforecast/raw/master/Selection_244.png?raw=true">
 </p>
