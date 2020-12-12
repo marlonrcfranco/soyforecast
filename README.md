@@ -13,7 +13,6 @@
 
 # soyforecast
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marlonrcfranco/soyforecast/blob/master/soyforecast.ipynb)
-### Go to the notebook: https://github.com/marlonrcfranco/soyforecast/blob/master/soyforecast.ipynb
 
 <p align="center">
   <img src="https://github.com/marlonrcfranco/soyforecast/raw/master/Selection_244.png?raw=true">
@@ -28,6 +27,8 @@ Prediction of future soybeans stock prices on the Chicago Stock Exchange (CBOT) 
   <br>
   Soybean, CBOT Soybean Futures + (2015 USA Weather Avg, Max, Min by USDA-NASS-soybeans-production_bushels-2015)
 </p>
+
+### Go to the notebook: https://github.com/marlonrcfranco/soyforecast/blob/master/soyforecast.ipynb
 
 Apache License 2.0 © Marlon Franco
 
