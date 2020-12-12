@@ -4,6 +4,13 @@
 [![GitHub](https://img.shields.io/github/license/marlonrcfranco/soyforecast)](https://github.com/marlonrcfranco/soyforecast/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/marlonrcfranco/soyforecast?style=social)](https://github.com/marlonrcfranco/soyforecast/stargazers)
 
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=flat-square&logo=Keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
+
 # soyforecast
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marlonrcfranco/soyforecast/blob/master/soyforecast.ipynb)
 ### Go to the notebook: https://github.com/marlonrcfranco/soyforecast/blob/master/soyforecast.ipynb
